@@ -47,6 +47,7 @@ body {
 	display: block;
 	text-decoration: none;
 	text-transform: uppercase;
+	transition: 1s;
 }
 
 #header nav ul li a:hover {
