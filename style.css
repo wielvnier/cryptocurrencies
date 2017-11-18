@@ -21,6 +21,9 @@ body {
 	clear: both;
  }
 
+/* SEKCJA HEADER I NAV */
+
+
 #header {
 	background: #051938;
 	line-height: 70px;
@@ -59,6 +62,16 @@ body {
     float: left;
     margin: 10px 0 10px 100px;
 }
+
+.sticky {
+	width: 100%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 100;
+}
+
+/* SEKCJA WELCOME - IMG I SLOGAN */
 
 #welcome {
 	background-image: url('https://static.pexels.com/photos/69760/pexels-photo-69760.jpeg');
