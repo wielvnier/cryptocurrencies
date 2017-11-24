@@ -244,7 +244,7 @@ p {
 /* SEKCJA FIXED IMG */
 #fixed-img {
     height: 600px;
-    background-image: url('fixed.jpg');
+    background-image: url('images/fixed.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
